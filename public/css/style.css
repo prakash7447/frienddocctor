@@ -1,0 +1,101 @@
+#body{
+    margin-top: 0;
+    height: 100vh;
+
+};
+  .body-middle{
+    display: flex;
+    flex: wrap;
+    flex-direction: row;
+}
+.header{
+    margin-top: 0;
+    margin-bottom: 0.2rem;
+}
+.navbar{
+   height: 6.5rem;
+   
+}
+/* .body-middle{
+    border-left: 0.2rem solid black;
+    border-right: 0.2rem solid black;
+    padding-left: 1rem;
+    padding-right: 1rem;
+} */
+
+.fa-hospital-user{
+    font-size: xx-large;
+    background-color: lightgreen;
+    color: darkgreen;
+    border-radius: 20%;
+}
+.nav-link{
+    color: #222222;
+
+}
+.f-info{
+    display: flex;
+    flex-direction: column;
+    height: 4rem;
+    margin-top: 1rem;
+    align-items: center;
+    background-color:gainsboro ;
+    font-size: small;
+}
+/* .f-info:hover{
+    font-size:medium;
+    background-color:gainsboro ;
+   
+} */
+
+.allcards{
+    justify-content: space-evenly;
+   
+}
+
+.body-content{
+    margin-top: 1rem;
+}
+
+#img{
+    border-radius: 3rem !important;
+}
+.card-img-top{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 1px;
+    padding: 1rem;
+    opacity: 0.8;
+    height: fit-content !important;
+   
+}
+.card-img-top:hover{
+
+    opacity: 1;
+   
+}
+.card{
+    margin-top: 1 rem;
+    margin-bottom: 1rem;
+}
+
+#img{
+    border-radius: 3px;
+}
+.imgdiv{
+    height: 40% !important;
+}
+
+.fa-handshake{
+    color: blueviolet;
+}
+.doctorp{
+    color: chocolate;
+}
+.card-title{
+    margin-top: 0;
+}
+/* .bookingpage{
+    display: flex;
+    flex-direction: column;
+} */
